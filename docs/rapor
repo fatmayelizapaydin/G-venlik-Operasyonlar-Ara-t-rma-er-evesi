@@ -1,0 +1,11 @@
+## Güvenlik Operasyonları (SecOps)
+
+SecOps, bilgi güvenliği olaylarının tespit edilmesi, analiz edilmesi, önlenmesi ve müdahale edilmesi süreçlerinin bütününü ifade eder. Modern SecOps yaklaşımı, sürekli izleme ve hızlı müdahale prensiplerine dayanır.
+
+## Açık Kaynak İşletim Sistemleri
+
+Linux tabanlı işletim sistemleri, güvenlik operasyonlarında esneklik, şeffaflık ve maliyet avantajı sağlamaktadır. Açık kaynak yapıları sayesinde denetlenebilir ve özelleştirilebilir güvenlik çözümleri sunar.
+
+## Karar Destek Yaklaşımı
+
+Bu projede sunulan yapı, güvenlik analistlerinin olay anında doğru kararları verebilmesini destekleyecek şekilde tasarlanmıştır.
