@@ -1,0 +1,28 @@
+## Tehdit Tespiti (Detection)
+
+Tehdit tespiti, güvenlik ihlallerinin erken aşamada belirlenmesini amaçlar.
+
+### Kullanılan Yöntemler
+
+* Log analizi
+* Ağ trafiği izleme
+* Davranışsal anomali tespiti
+
+### MITRE ATT&CK Eşleştirmesi
+
+Tespit edilen aktiviteler MITRE ATT&CK teknikleri ile eşleştirilerek sınıflandırılır.
+
+---
+
+# docs/onleme.md
+
+## Önleme (Prevention)
+
+Tespit edilen tehditlerin sistemlere zarar vermesini engellemek için önleyici kontroller uygulanır.
+
+### Önleyici Kontroller
+
+* Güvenlik duvarı kuralları
+* IDS/IPS sistemleri
+* Yama ve güncelleme yönetimi
+* Sistem sertleştirme (Hardening)
