@@ -1,0 +1,27 @@
+## Sistem Mimarisi Genel Bakış
+
+Aşağıda tipik bir SecOps mimarisi gösterilmektedir:
+
+
+[Endpoint]
+     |
+     v
+[Log Toplama]
+     |
+     v
+[SIEM]
+     |
+     v
+[Analiz & Korelasyon]
+     |
+     v
+[Olay Müdahale]
+
+
+## Açıklama
+
+* Endpoint sistemlerden loglar toplanır
+* Loglar SIEM platformunda analiz edilir
+* Anomali tespiti sonrası olay müdahale süreci başlatılır
+
+---
