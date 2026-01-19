@@ -1,0 +1,12 @@
+## Önleme (Prevention)
+
+Tespit edilen tehditlerin sistemlere zarar vermesini engellemek için önleyici kontroller uygulanır.
+
+### Önleyici Kontroller
+
+* Güvenlik duvarı kuralları
+* IDS/IPS sistemleri
+* Yama ve güncelleme yönetimi
+* Sistem sertleştirme (Hardening)
+
+---
