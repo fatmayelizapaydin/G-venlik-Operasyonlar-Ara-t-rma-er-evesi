@@ -1,0 +1,11 @@
+## Olay Müdahalesi (Incident Response)
+
+Olay müdahalesi, bir güvenlik ihlali tespit edildiğinde izlenen yapılandırılmış süreçtir.
+
+### Müdahale Aşamaları
+
+1. Tespit
+2. Analiz
+3. İzolasyon
+4. İyileştirme
+5. Raporlama
